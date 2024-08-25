@@ -1,0 +1,12 @@
+{
+    "name": "azeze/with-design-patern",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "guzzlehttp/oauth-subscriber": "^0.6.0"
+    }
+}
