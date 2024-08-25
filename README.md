@@ -3,7 +3,7 @@ to use twitter API First define libarary,
 
 use App\ApiServiceFactory;
 
-Then, You must have added some settings in your file. it's enough for basic auth.
+Then, You must have added some settings in your file. it's enough for auth.
 
 $bearerToken = 'type_bearerToken';
 
